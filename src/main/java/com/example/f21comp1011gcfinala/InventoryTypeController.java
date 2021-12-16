@@ -38,10 +38,14 @@ public class InventoryTypeController implements Initializable {
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
 
+        Car car = null;
+
         dealerLabel.setText(APIUtility.getCarInfo().getDealership());
-        //typeListView.getItems().addAll(APIResponse.);
-        //yearRadioButton.setSelected(false);
-        //makeRadioButton.setSelected(false);
+        typeListView.getItems().addAll(APIResponse.getInventory());
+        yearRadioButton.setSelected(false);
+        makeRadioButton.setSelected(false);
+        //yearLabel.setText(car.getYear());
+        carListView.getItems().addAll(APIResponse.getInventory());
 
     }
 
