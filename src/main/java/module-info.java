@@ -9,6 +9,4 @@ module com.example.f21comp1011gcfinala {
 
     opens com.example.f21comp1011gcfinala to javafx.fxml, com.google.gson ;
     exports com.example.f21comp1011gcfinala;
-    //exports com.example.f21comp1011gcfinala.Controllers;
-    //opens com.example.f21comp1011gcw10.Controllers to com.google.gson, javafx.fxml;
 }
