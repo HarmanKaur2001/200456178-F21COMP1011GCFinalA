@@ -17,7 +17,7 @@ public class Car {
 
     private String model;
 
-    private Array type;
+    private ArrayList<String> type;
 
     public String getId() {
         return id;
@@ -58,14 +58,13 @@ public class Car {
         this.model = model;
     }
 
-    public Array getType() {
+    public ArrayList<String> getType() {
         return type;
     }
 
-    public void setType(Array type) {
+    public void setType(ArrayList<String> type) {
         this.type = type;
     }
-
 
     public String toString()
     {

@@ -1,11 +1,15 @@
 package com.example.f21comp1011gcfinala;
 
 import javafx.fxml.FXML;
+import javafx.fxml.Initializable;
 import javafx.scene.control.Label;
 import javafx.scene.control.ListView;
 import javafx.scene.control.RadioButton;
 
-public class InventoryTypeController {
+import java.net.URL;
+import java.util.ResourceBundle;
+
+public class InventoryTypeController implements Initializable {
 
     @FXML
     private Label numOfCarsLabel;
@@ -28,4 +32,10 @@ public class InventoryTypeController {
     @FXML
     private RadioButton makeRadioButton;
 
+    @Override
+    public void initialize(URL url, ResourceBundle resourceBundle) {
+
+        dealerLabel.setText(APIUtility.getCarInfo().getDealership());
+
+    }
 }
