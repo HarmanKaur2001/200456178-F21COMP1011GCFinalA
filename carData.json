@@ -1,0 +1,2004 @@
+{
+  "Dealership": "JDub's Used Car Emporium",
+  "Inventory": [{
+    "id": 9582,
+    "year": 2008,
+    "make": "Buick",
+    "price": 4387.61,
+    "model": "Enclave",
+    "type": ["SUV"]
+  },
+    {
+      "id": 9583,
+      "year": 2006,
+      "make": "MINI",
+      "price": 22575.670000000002,
+      "model": "Convertible",
+      "type": ["Convertible"]
+    },
+    {
+      "id": 9584,
+      "year": 2019,
+      "make": "Volvo",
+      "price": 41704.84,
+      "model": "XC90",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9585,
+      "year": 1999,
+      "make": "Ford",
+      "price": 23830.02,
+      "model": "Taurus",
+      "type": ["Sedan","Wagon"]
+    },
+    {
+      "id": 9586,
+      "year": 2020,
+      "make": "Volvo",
+      "price": 43618.35999999999,
+      "model": "XC60",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9587,
+      "year": 2006,
+      "make": "HUMMER",
+      "price": 29017.78,
+      "model": "H2",
+      "type": ["SUV","Pickup"]
+    },
+    {
+      "id": 9588,
+      "year": 2016,
+      "make": "GMC",
+      "price": 19381.66,
+      "model": "Sierra 1500 Crew Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9589,
+      "year": 2008,
+      "make": "GMC",
+      "price": 21383.29,
+      "model": "Canyon Crew Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9590,
+      "year": 2016,
+      "make": "Subaru",
+      "price": 24685.84,
+      "model": "Outback",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9591,
+      "year": 2010,
+      "make": "Mitsubishi",
+      "price": 15734.09,
+      "model": "Outlander",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9592,
+      "year": 1998,
+      "make": "Dodge",
+      "price": 18556.52,
+      "model": "Ram Van 1500",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9593,
+      "year": 2014,
+      "make": "Nissan",
+      "price": 21939.81,
+      "model": "Pathfinder",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9594,
+      "year": 2014,
+      "make": "Honda",
+      "price": 18886.35,
+      "model": "Civic",
+      "type": ["Sedan","Coupe"]
+    },
+    {
+      "id": 9595,
+      "year": 2009,
+      "make": "Subaru",
+      "price": 27000.18,
+      "model": "Outback",
+      "type": ["Wagon"]
+    },
+    {
+      "id": 9596,
+      "year": 2009,
+      "make": "Lincoln",
+      "price": 52835.60999999999,
+      "model": "Navigator L",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9597,
+      "year": 2000,
+      "make": "GMC",
+      "price": 18197.15,
+      "model": "Yukon Denali",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9598,
+      "year": 2007,
+      "make": "Hyundai",
+      "price": 16559.69,
+      "model": "Tucson",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9599,
+      "year": 2018,
+      "make": "BMW",
+      "price": 46789.21,
+      "model": "7 Series",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9600,
+      "year": 1992,
+      "make": "Dodge",
+      "price": 20992.49,
+      "model": "Caravan Passenger",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9601,
+      "year": 2008,
+      "make": "Hyundai",
+      "price": 14849.75,
+      "model": "Accent",
+      "type": ["Sedan","Hatchback"]
+    },
+    {
+      "id": 9602,
+      "year": 2017,
+      "make": "Nissan",
+      "price": 17767.59,
+      "model": "Frontier King Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9603,
+      "year": 2019,
+      "make": "Nissan",
+      "price": 21517.19,
+      "model": "Altima",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9604,
+      "year": 2018,
+      "make": "Honda",
+      "price": 19214.24,
+      "model": "Clarity Plug-in Hybrid",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9605,
+      "year": 2014,
+      "make": "Buick",
+      "price": 4279.76,
+      "model": "Verano",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9606,
+      "year": 2007,
+      "make": "Bentley",
+      "price": 347972.17,
+      "model": "Azure",
+      "type": ["Convertible"]
+    },
+    {
+      "id": 9607,
+      "year": 2017,
+      "make": "Lexus",
+      "price": 50213.74,
+      "model": "RC",
+      "type": ["Coupe"]
+    },
+    {
+      "id": 9608,
+      "year": 2012,
+      "make": "Chevrolet",
+      "price": 22063.800000000003,
+      "model": "Sonic",
+      "type": ["Sedan","Hatchback"]
+    },
+    {
+      "id": 9609,
+      "year": 2013,
+      "make": "Nissan",
+      "price": 19862.39,
+      "model": "NV2500 HD Cargo",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9610,
+      "year": 1995,
+      "make": "GMC",
+      "price": 21503.99,
+      "model": "Sonoma Club Coupe Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9611,
+      "year": 2007,
+      "make": "Jaguar",
+      "price": 48798.119999999995,
+      "model": "X-Type",
+      "type": ["Sedan","Wagon"]
+    },
+    {
+      "id": 9612,
+      "year": 2004,
+      "make": "Mercedes-Benz",
+      "price": 74498.58,
+      "model": "SL-Class",
+      "type": ["Convertible"]
+    },
+    {
+      "id": 9613,
+      "year": 1995,
+      "make": "Chevrolet",
+      "price": 22324.390000000003,
+      "model": "Sportvan G30",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9614,
+      "year": 2004,
+      "make": "GMC",
+      "price": 20888.4,
+      "model": "Sierra 2500 HD Crew Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9615,
+      "year": 2016,
+      "make": "Volkswagen",
+      "price": 19821.78,
+      "model": "e-Golf",
+      "type": ["Hatchback"]
+    },
+    {
+      "id": 9616,
+      "year": 2010,
+      "make": "Aston Martin",
+      "price": 254929.99,
+      "model": "DBS",
+      "type": ["Coupe","Convertible"]
+    },
+    {
+      "id": 9617,
+      "year": 1996,
+      "make": "Chevrolet",
+      "price": 24483.34,
+      "model": "Beretta",
+      "type": ["Coupe"]
+    },
+    {
+      "id": 9618,
+      "year": 2020,
+      "make": "Land Rover",
+      "price": 106320.4,
+      "model": "Range Rover Sport",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9619,
+      "year": 1996,
+      "make": "Pontiac",
+      "price": 16881.24,
+      "model": "Firebird",
+      "type": ["Convertible","Hatchback"]
+    },
+    {
+      "id": 9620,
+      "year": 2011,
+      "make": "Cadillac",
+      "price": 42310.909999999996,
+      "model": "SRX",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9621,
+      "year": 2011,
+      "make": "Ford",
+      "price": 25888.5,
+      "model": "E350 Super Duty Cargo",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9622,
+      "year": 2015,
+      "make": "Nissan",
+      "price": 17796.61,
+      "model": "Frontier Crew Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9623,
+      "year": 2003,
+      "make": "Ford",
+      "price": 27481.97,
+      "model": "F250 Super Duty Super Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9624,
+      "year": 2017,
+      "make": "Ford",
+      "price": 26485.65,
+      "model": "Escape",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9625,
+      "year": 2019,
+      "make": "Volkswagen",
+      "price": 22022.41,
+      "model": "Golf SportWagen",
+      "type": ["Wagon"]
+    },
+    {
+      "id": 9626,
+      "year": 2019,
+      "make": "FIAT",
+      "price": 5680.7300000000005,
+      "model": "500 Abarth",
+      "type": ["Hatchback"]
+    },
+    {
+      "id": 9627,
+      "year": 1994,
+      "make": "Saab",
+      "price": 13274.79,
+      "model": "9000",
+      "type": ["Sedan","Hatchback"]
+    },
+    {
+      "id": 9628,
+      "year": 2006,
+      "make": "Kia",
+      "price": 15300.19,
+      "model": "Sorento",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9629,
+      "year": 2009,
+      "make": "Lamborghini",
+      "price": 181770.74,
+      "model": "Murcielago",
+      "type": ["Coupe","Convertible"]
+    },
+    {
+      "id": 9630,
+      "year": 2020,
+      "make": "Kia",
+      "price": 17477.84,
+      "model": "Rio",
+      "type": ["Sedan","Hatchback"]
+    },
+    {
+      "id": 9631,
+      "year": 2011,
+      "make": "Audi",
+      "price": 49946.27,
+      "model": "A5",
+      "type": ["Coupe","Convertible"]
+    },
+    {
+      "id": 9632,
+      "year": 2018,
+      "make": "GMC",
+      "price": 19075.65,
+      "model": "Sierra 2500 HD Crew Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9633,
+      "year": 1994,
+      "make": "Audi",
+      "price": 47179.03,
+      "model": "100",
+      "type": ["Sedan","Wagon"]
+    },
+    {
+      "id": 9634,
+      "year": 2001,
+      "make": "BMW",
+      "price": 44356.25,
+      "model": "Z8",
+      "type": ["Convertible"]
+    },
+    {
+      "id": 9635,
+      "year": 1999,
+      "make": "Pontiac",
+      "price": 17699.1,
+      "model": "Grand Am",
+      "type": ["Sedan","Coupe"]
+    },
+    {
+      "id": 9636,
+      "year": 2015,
+      "make": "Mercedes-Benz",
+      "price": 71054.73999999999,
+      "model": "GL-Class",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9637,
+      "year": 2011,
+      "make": "Nissan",
+      "price": 18401.83,
+      "model": "Titan Crew Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9638,
+      "year": 2019,
+      "make": "Land Rover",
+      "price": 107045.87,
+      "model": "Range Rover Sport",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9639,
+      "year": 2008,
+      "make": "Subaru",
+      "price": 26307.57,
+      "model": "Tribeca",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9640,
+      "year": 2007,
+      "make": "Jeep",
+      "price": 38128.729999999996,
+      "model": "Grand Cherokee",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9641,
+      "year": 1994,
+      "make": "Dodge",
+      "price": 19758.65,
+      "model": "Dakota Regular Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9642,
+      "year": 1995,
+      "make": "Honda",
+      "price": 18014.11,
+      "model": "del Sol",
+      "type": ["Coupe"]
+    },
+    {
+      "id": 9643,
+      "year": 2010,
+      "make": "MAZDA",
+      "price": 18982.28,
+      "model": "RX-8",
+      "type": ["Coupe"]
+    },
+    {
+      "id": 9644,
+      "year": 2012,
+      "make": "Chevrolet",
+      "price": 24158.11,
+      "model": "Tahoe",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9645,
+      "year": 2017,
+      "make": "Land Rover",
+      "price": 103929.01,
+      "model": "Range Rover Evoque",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9646,
+      "year": 2005,
+      "make": "GMC",
+      "price": 20455.49,
+      "model": "Envoy",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9647,
+      "year": 2013,
+      "make": "GMC",
+      "price": 18058.89,
+      "model": "Yukon",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9648,
+      "year": 2011,
+      "make": "Suzuki",
+      "price": 16637.37,
+      "model": "Grand Vitara",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9649,
+      "year": 1995,
+      "make": "Dodge",
+      "price": 18733.71,
+      "model": "Ram 3500 Club Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9650,
+      "year": 2007,
+      "make": "Toyota",
+      "price": 20575.83,
+      "model": "Tacoma Access Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9651,
+      "year": 2019,
+      "make": "Ford",
+      "price": 26360.13,
+      "model": "Transit 150 Wagon",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9652,
+      "year": 2016,
+      "make": "Acura",
+      "price": 34084.45,
+      "model": "MDX",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9653,
+      "year": 2013,
+      "make": "Nissan",
+      "price": 18057.01,
+      "model": "Quest",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9654,
+      "year": 2019,
+      "make": "Jaguar",
+      "price": 49699.06,
+      "model": "XF",
+      "type": ["Sedan","Wagon"]
+    },
+    {
+      "id": 9655,
+      "year": 1998,
+      "make": "Chevrolet",
+      "price": 24254.31,
+      "model": "Camaro",
+      "type": ["Coupe","Convertible"]
+    },
+    {
+      "id": 9656,
+      "year": 2006,
+      "make": "Ford",
+      "price": 25859.0,
+      "model": "F350 Super Duty Super Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9657,
+      "year": 2017,
+      "make": "Audi",
+      "price": 45062.4,
+      "model": "A4",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9658,
+      "year": 1995,
+      "make": "Acura",
+      "price": 33269.08,
+      "model": "Integra",
+      "type": ["Sedan","Hatchback"]
+    },
+    {
+      "id": 9659,
+      "year": 2006,
+      "make": "Saturn",
+      "price": 9447.1,
+      "model": "VUE",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9660,
+      "year": 2020,
+      "make": "Chrysler",
+      "price": 21611.71,
+      "model": "Voyager",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9661,
+      "year": 2013,
+      "make": "Cadillac",
+      "price": 46653.10999999999,
+      "model": "SRX",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9662,
+      "year": 2003,
+      "make": "Hyundai",
+      "price": 17319.21,
+      "model": "Elantra",
+      "type": ["Sedan","Hatchback"]
+    },
+    {
+      "id": 9663,
+      "year": 1997,
+      "make": "Isuzu",
+      "price": 2273.59,
+      "model": "Hombre Regular Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9664,
+      "year": 2000,
+      "make": "Dodge",
+      "price": 22746.87,
+      "model": "Ram 3500 Quad Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9665,
+      "year": 2005,
+      "make": "Ford",
+      "price": 25304.82,
+      "model": "Escape",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9666,
+      "year": 2000,
+      "make": "Chevrolet",
+      "price": 21504.230000000003,
+      "model": "3500 Extended Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9667,
+      "year": 2015,
+      "make": "GMC",
+      "price": 18096.71,
+      "model": "Sierra 3500 HD Regular Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9668,
+      "year": 2005,
+      "make": "Nissan",
+      "price": 19019.670000000002,
+      "model": "Maxima",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9669,
+      "year": 2004,
+      "make": "Toyota",
+      "price": 19066.27,
+      "model": "4Runner",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9670,
+      "year": 2013,
+      "make": "Dodge",
+      "price": 19516.29,
+      "model": "Dart",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9671,
+      "year": 2005,
+      "make": "GMC",
+      "price": 19093.39,
+      "model": "Envoy XL",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9672,
+      "year": 1997,
+      "make": "Honda",
+      "price": 21814.9,
+      "model": "Civic",
+      "type": ["Sedan","Coupe","Hatchback"]
+    },
+    {
+      "id": 9673,
+      "year": 2016,
+      "make": "Hyundai",
+      "price": 18288.96,
+      "model": "Tucson",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9674,
+      "year": 1994,
+      "make": "Hyundai",
+      "price": 14695.44,
+      "model": "Excel",
+      "type": ["Sedan","Hatchback"]
+    },
+    {
+      "id": 9675,
+      "year": 2006,
+      "make": "Honda",
+      "price": 22790.01,
+      "model": "Accord",
+      "type": ["Sedan","Coupe"]
+    },
+    {
+      "id": 9676,
+      "year": 2019,
+      "make": "Ford",
+      "price": 25947.31,
+      "model": "Transit 250 Van",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9677,
+      "year": 1992,
+      "make": "Honda",
+      "price": 20528.93,
+      "model": "Accord",
+      "type": ["Sedan","Coupe","Wagon"]
+    },
+    {
+      "id": 9678,
+      "year": 2009,
+      "make": "Chevrolet",
+      "price": 21758.7,
+      "model": "Silverado 2500 HD Regular Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9679,
+      "year": 2004,
+      "make": "Chevrolet",
+      "price": 21872.74,
+      "model": "Silverado 3500 Extended Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9680,
+      "year": 2015,
+      "make": "BMW",
+      "price": 42073.06,
+      "model": "i3",
+      "type": ["Hatchback"]
+    },
+    {
+      "id": 9681,
+      "year": 2020,
+      "make": "Ford",
+      "price": 23923.35,
+      "model": "Expedition",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9682,
+      "year": 2018,
+      "make": "Cadillac",
+      "price": 43298.939999999995,
+      "model": "CTS-V",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9683,
+      "year": 2010,
+      "make": "Jeep",
+      "price": 41221.24,
+      "model": "Wrangler",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9684,
+      "year": 2007,
+      "make": "Suzuki",
+      "price": 17204.77,
+      "model": "SX4",
+      "type": ["Hatchback"]
+    },
+    {
+      "id": 9685,
+      "year": 2006,
+      "make": "Mercedes-Benz",
+      "price": 73022.06999999999,
+      "model": "SLK-Class",
+      "type": ["Convertible"]
+    },
+    {
+      "id": 9686,
+      "year": 2014,
+      "make": "Bentley",
+      "price": 347538.95,
+      "model": "Mulsanne",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9687,
+      "year": 2016,
+      "make": "Audi",
+      "price": 47558.259999999995,
+      "model": "S8",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9688,
+      "year": 2011,
+      "make": "GMC",
+      "price": 19503.45,
+      "model": "Savana 2500 Passenger",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9689,
+      "year": 2017,
+      "make": "Hyundai",
+      "price": 14980.84,
+      "model": "Ioniq Hybrid",
+      "type": ["Hatchback"]
+    },
+    {
+      "id": 9690,
+      "year": 2012,
+      "make": "GMC",
+      "price": 19333.68,
+      "model": "Savana 2500 Passenger",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9691,
+      "year": 2015,
+      "make": "Mercedes-Benz",
+      "price": 71351.75,
+      "model": "B-Class",
+      "type": ["Hatchback"]
+    },
+    {
+      "id": 9692,
+      "year": 2008,
+      "make": "Chevrolet",
+      "price": 23424.570000000003,
+      "model": "Silverado 3500 HD Crew Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9693,
+      "year": 2009,
+      "make": "Ferrari",
+      "price": 227908.83,
+      "model": "430 Scuderia",
+      "type": ["Coupe","Convertible"]
+    },
+    {
+      "id": 9694,
+      "year": 2018,
+      "make": "Nissan",
+      "price": 19304.58,
+      "model": "NV200",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9695,
+      "year": 2014,
+      "make": "Chevrolet",
+      "price": 21359.75,
+      "model": "Impala Limited",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9696,
+      "year": 2011,
+      "make": "Audi",
+      "price": 46072.2,
+      "model": "Q5",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9697,
+      "year": 2013,
+      "make": "Land Rover",
+      "price": 104559.84,
+      "model": "Range Rover",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9698,
+      "year": 2013,
+      "make": "Jaguar",
+      "price": 51096.88,
+      "model": "XF",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9699,
+      "year": 2019,
+      "make": "Tesla",
+      "price": 49765.59,
+      "model": "Model 3",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9700,
+      "year": 2005,
+      "make": "Nissan",
+      "price": 18112.74,
+      "model": "Altima",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9701,
+      "year": 2007,
+      "make": "Cadillac",
+      "price": 45221.299999999996,
+      "model": "SRX",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9702,
+      "year": 2010,
+      "make": "Lexus",
+      "price": 49154.909999999996,
+      "model": "LS",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9703,
+      "year": 2004,
+      "make": "Nissan",
+      "price": 21091.6,
+      "model": "350Z",
+      "type": ["Coupe","Convertible"]
+    },
+    {
+      "id": 9704,
+      "year": 1998,
+      "make": "GMC",
+      "price": 20667.98,
+      "model": "Savana 1500 Passenger",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9705,
+      "year": 2017,
+      "make": "BMW",
+      "price": 45143.10999999999,
+      "model": "i8",
+      "type": ["Coupe"]
+    },
+    {
+      "id": 9706,
+      "year": 2013,
+      "make": "Chevrolet",
+      "price": 25028.530000000002,
+      "model": "Suburban 1500",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9707,
+      "year": 1999,
+      "make": "Lincoln",
+      "price": 53273.27,
+      "model": "Continental",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9708,
+      "year": 2018,
+      "make": "Lincoln",
+      "price": 51367.42,
+      "model": "MKZ",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9709,
+      "year": 2009,
+      "make": "Toyota",
+      "price": 21655.94,
+      "model": "FJ Cruiser",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9710,
+      "year": 1996,
+      "make": "Chevrolet",
+      "price": 23048.210000000003,
+      "model": "Lumina",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9711,
+      "year": 2017,
+      "make": "FIAT",
+      "price": 2756.8500000000004,
+      "model": "124 Spider",
+      "type": ["Convertible"]
+    },
+    {
+      "id": 9712,
+      "year": 1996,
+      "make": "Acura",
+      "price": 30444.49,
+      "model": "NSX",
+      "type": ["Coupe","Convertible"]
+    },
+    {
+      "id": 9713,
+      "year": 2006,
+      "make": "Dodge",
+      "price": 18727.13,
+      "model": "Sprinter 2500 Passenger",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9714,
+      "year": 2015,
+      "make": "Kia",
+      "price": 16106.65,
+      "model": "Rio",
+      "type": ["Sedan","Hatchback"]
+    },
+    {
+      "id": 9715,
+      "year": 2005,
+      "make": "Chevrolet",
+      "price": 23442.890000000003,
+      "model": "Silverado 1500 Regular Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9716,
+      "year": 2015,
+      "make": "Chevrolet",
+      "price": 23691.010000000002,
+      "model": "Spark EV",
+      "type": ["Hatchback"]
+    },
+    {
+      "id": 9717,
+      "year": 2016,
+      "make": "Subaru",
+      "price": 23987.19,
+      "model": "Crosstrek",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9718,
+      "year": 2010,
+      "make": "Chevrolet",
+      "price": 25325.050000000003,
+      "model": "Express 1500 Passenger",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9719,
+      "year": 1996,
+      "make": "Ford",
+      "price": 26108.61,
+      "model": "Econoline E250 Cargo",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9720,
+      "year": 2010,
+      "make": "INFINITI",
+      "price": 35792.03999999999,
+      "model": "M",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9721,
+      "year": 2008,
+      "make": "Chevrolet",
+      "price": 22333.99,
+      "model": "Express 3500 Passenger",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9722,
+      "year": 1993,
+      "make": "Nissan",
+      "price": 18203.13,
+      "model": "Maxima",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9723,
+      "year": 2010,
+      "make": "Ford",
+      "price": 26978.16,
+      "model": "Ranger Regular Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9724,
+      "year": 2017,
+      "make": "GMC",
+      "price": 18696.64,
+      "model": "Canyon Crew Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9725,
+      "year": 2007,
+      "make": "GMC",
+      "price": 22759.55,
+      "model": "Savana 1500 Passenger",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9726,
+      "year": 2010,
+      "make": "Bentley",
+      "price": 349898.5,
+      "model": "Azure T",
+      "type": ["Convertible"]
+    },
+    {
+      "id": 9727,
+      "year": 2006,
+      "make": "Chevrolet",
+      "price": 25451.120000000003,
+      "model": "SSR",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9728,
+      "year": 2018,
+      "make": "GMC",
+      "price": 21875.71,
+      "model": "Yukon",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9729,
+      "year": 1992,
+      "make": "Isuzu",
+      "price": 2550.19,
+      "model": "Spacecab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9730,
+      "year": 2014,
+      "make": "GMC",
+      "price": 20293.98,
+      "model": "Sierra 1500 Crew Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9731,
+      "year": 1999,
+      "make": "Ford",
+      "price": 25269.47,
+      "model": "F150 Super Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9732,
+      "year": 2005,
+      "make": "Volkswagen",
+      "price": 19686.66,
+      "model": "Passat",
+      "type": ["Sedan","Wagon"]
+    },
+    {
+      "id": 9733,
+      "year": 1998,
+      "make": "GMC",
+      "price": 22054.9,
+      "model": "Sonoma Regular Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9734,
+      "year": 2006,
+      "make": "Land Rover",
+      "price": 103183.95999999999,
+      "model": "Range Rover Sport",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9735,
+      "year": 2009,
+      "make": "Bentley",
+      "price": 347608.38,
+      "model": "Azure",
+      "type": ["Convertible"]
+    },
+    {
+      "id": 9736,
+      "year": 2009,
+      "make": "Nissan",
+      "price": 18812.19,
+      "model": "Versa",
+      "type": ["Sedan","Hatchback"]
+    },
+    {
+      "id": 9737,
+      "year": 2006,
+      "make": "Mitsubishi",
+      "price": 17457.04,
+      "model": "Eclipse",
+      "type": ["Coupe"]
+    },
+    {
+      "id": 9738,
+      "year": 1999,
+      "make": "Cadillac",
+      "price": 44583.509999999995,
+      "model": "DeVille",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9739,
+      "year": 1998,
+      "make": "Dodge",
+      "price": 22132.57,
+      "model": "Dakota Regular Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9740,
+      "year": 2013,
+      "make": "Volvo",
+      "price": 42138.52,
+      "model": "XC70",
+      "type": ["Wagon"]
+    },
+    {
+      "id": 9741,
+      "year": 2005,
+      "make": "Ford",
+      "price": 26850.81,
+      "model": "Expedition",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9742,
+      "year": 2010,
+      "make": "Audi",
+      "price": 48601.17,
+      "model": "A6",
+      "type": ["Sedan","Wagon"]
+    },
+    {
+      "id": 9743,
+      "year": 2012,
+      "make": "Audi",
+      "price": 45062.36,
+      "model": "A5",
+      "type": ["Coupe","Convertible"]
+    },
+    {
+      "id": 9744,
+      "year": 1998,
+      "make": "Ford",
+      "price": 24907.01,
+      "model": "F250 Super Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9745,
+      "year": 2009,
+      "make": "Chevrolet",
+      "price": 24142.11,
+      "model": "Cobalt",
+      "type": ["Sedan","Coupe"]
+    },
+    {
+      "id": 9746,
+      "year": 1994,
+      "make": "Chevrolet",
+      "price": 24106.890000000003,
+      "model": "2500 Extended Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9747,
+      "year": 1993,
+      "make": "Oldsmobile",
+      "price": 13571.17,
+      "model": "Achieva",
+      "type": ["Sedan","Coupe"]
+    },
+    {
+      "id": 9748,
+      "year": 2018,
+      "make": "Ford",
+      "price": 24064.04,
+      "model": "F150 Regular Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9749,
+      "year": 2010,
+      "make": "Honda",
+      "price": 22471.6,
+      "model": "Civic",
+      "type": ["Sedan","Coupe"]
+    },
+    {
+      "id": 9750,
+      "year": 2018,
+      "make": "Toyota",
+      "price": 19969.44,
+      "model": "Yaris",
+      "type": ["Hatchback"]
+    },
+    {
+      "id": 9751,
+      "year": 1997,
+      "make": "Mitsubishi",
+      "price": 17639.85,
+      "model": "Eclipse",
+      "type": ["Coupe","Convertible"]
+    },
+    {
+      "id": 9752,
+      "year": 2002,
+      "make": "GMC",
+      "price": 19304.97,
+      "model": "Safari Passenger",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9753,
+      "year": 2000,
+      "make": "Lincoln",
+      "price": 54543.17,
+      "model": "Navigator",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9754,
+      "year": 2004,
+      "make": "BMW",
+      "price": 46295.5,
+      "model": "3 Series",
+      "type": ["Sedan","Coupe","Convertible","Wagon"]
+    },
+    {
+      "id": 9755,
+      "year": 2005,
+      "make": "Volkswagen",
+      "price": 22020.94,
+      "model": "Jetta",
+      "type": ["Sedan","Wagon"]
+    },
+    {
+      "id": 9756,
+      "year": 2016,
+      "make": "Hyundai",
+      "price": 15014.210000000001,
+      "model": "Sonata",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9757,
+      "year": 2010,
+      "make": "Volvo",
+      "price": 41887.24,
+      "model": "XC60",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9758,
+      "year": 2020,
+      "make": "Subaru",
+      "price": 25898.59,
+      "model": "Ascent",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9759,
+      "year": 2015,
+      "make": "Hyundai",
+      "price": 18142.43,
+      "model": "Equus",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9760,
+      "year": 2006,
+      "make": "Chevrolet",
+      "price": 21730.72,
+      "model": "HHR",
+      "type": ["Wagon"]
+    },
+    {
+      "id": 9761,
+      "year": 2005,
+      "make": "Chevrolet",
+      "price": 24684.420000000002,
+      "model": "Uplander Passenger",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9762,
+      "year": 1997,
+      "make": "Jeep",
+      "price": 41849.939999999995,
+      "model": "Wrangler",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9763,
+      "year": 1993,
+      "make": "GMC",
+      "price": 21342.97,
+      "model": "Rally Wagon 3500",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9764,
+      "year": 2017,
+      "make": "Ram",
+      "price": 20960.4,
+      "model": "1500 Quad Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9765,
+      "year": 2007,
+      "make": "Dodge",
+      "price": 18107.86,
+      "model": "Grand Caravan Cargo",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9766,
+      "year": 2004,
+      "make": "Hyundai",
+      "price": 17036.34,
+      "model": "Elantra",
+      "type": ["Sedan","Hatchback"]
+    },
+    {
+      "id": 9767,
+      "year": 2000,
+      "make": "MAZDA",
+      "price": 18531.55,
+      "model": "B-Series Regular Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9768,
+      "year": 2008,
+      "make": "Ford",
+      "price": 26326.19,
+      "model": "Explorer",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9769,
+      "year": 2008,
+      "make": "Nissan",
+      "price": 19080.09,
+      "model": "Versa",
+      "type": ["Sedan","Hatchback"]
+    },
+    {
+      "id": 9770,
+      "year": 2014,
+      "make": "Jeep",
+      "price": 41587.969999999994,
+      "model": "Cherokee",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9771,
+      "year": 2000,
+      "make": "Ford",
+      "price": 27189.44,
+      "model": "Explorer Sport",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9772,
+      "year": 1994,
+      "make": "Eagle",
+      "price": 10329.48,
+      "model": "Summit",
+      "type": ["Sedan","Coupe","Wagon"]
+    },
+    {
+      "id": 9773,
+      "year": 1997,
+      "make": "Volkswagen",
+      "price": 19041.05,
+      "model": "Cabrio",
+      "type": ["Convertible"]
+    },
+    {
+      "id": 9774,
+      "year": 2010,
+      "make": "MINI",
+      "price": 19747.07,
+      "model": "Clubman",
+      "type": ["Hatchback"]
+    },
+    {
+      "id": 9775,
+      "year": 2008,
+      "make": "BMW",
+      "price": 42781.78,
+      "model": "7 Series",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9776,
+      "year": 2002,
+      "make": "Pontiac",
+      "price": 16630.88,
+      "model": "Firebird",
+      "type": ["Coupe","Convertible"]
+    },
+    {
+      "id": 9777,
+      "year": 2019,
+      "make": "Nissan",
+      "price": 19726.3,
+      "model": "Titan King Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9778,
+      "year": 1997,
+      "make": "Chevrolet",
+      "price": 22197.320000000003,
+      "model": "2500 HD Extended Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9779,
+      "year": 1992,
+      "make": "Pontiac",
+      "price": 17429.98,
+      "model": "Grand Prix",
+      "type": ["Sedan","Coupe"]
+    },
+    {
+      "id": 9780,
+      "year": 2004,
+      "make": "Toyota",
+      "price": 18203.9,
+      "model": "Solara",
+      "type": ["Coupe","Convertible"]
+    },
+    {
+      "id": 9781,
+      "year": 1996,
+      "make": "GMC",
+      "price": 19006.47,
+      "model": "2500 Club Coupe",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9782,
+      "year": 2000,
+      "make": "Dodge",
+      "price": 19454.84,
+      "model": "Ram 1500 Quad Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9783,
+      "year": 2014,
+      "make": "Honda",
+      "price": 20812.04,
+      "model": "CR-V",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9784,
+      "year": 2015,
+      "make": "INFINITI",
+      "price": 36021.6,
+      "model": "QX80",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9785,
+      "year": 1993,
+      "make": "Chevrolet",
+      "price": 22640.81,
+      "model": "Cavalier",
+      "type": ["Coupe","Sedan","Wagon","Convertible"]
+    },
+    {
+      "id": 9786,
+      "year": 2019,
+      "make": "Kia",
+      "price": 15216.16,
+      "model": "Rio",
+      "type": ["Sedan","Hatchback"]
+    },
+    {
+      "id": 9787,
+      "year": 2012,
+      "make": "Nissan",
+      "price": 18534.1,
+      "model": "Murano",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9788,
+      "year": 1993,
+      "make": "Jeep",
+      "price": 39048.92,
+      "model": "Cherokee",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9789,
+      "year": 2010,
+      "make": "Volkswagen",
+      "price": 21229.19,
+      "model": "New Beetle",
+      "type": ["Convertible","Hatchback"]
+    },
+    {
+      "id": 9790,
+      "year": 2019,
+      "make": "Kia",
+      "price": 15621.28,
+      "model": "Cadenza",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9791,
+      "year": 2016,
+      "make": "GMC",
+      "price": 18924.13,
+      "model": "Sierra 2500 HD Double Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9792,
+      "year": 1997,
+      "make": "Dodge",
+      "price": 19590.56,
+      "model": "Avenger",
+      "type": ["Coupe"]
+    },
+    {
+      "id": 9793,
+      "year": 2007,
+      "make": "GMC",
+      "price": 21254.97,
+      "model": "Sierra 1500 Regular Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9794,
+      "year": 2008,
+      "make": "Dodge",
+      "price": 20438.670000000002,
+      "model": "Ram 2500 Regular Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9795,
+      "year": 2015,
+      "make": "Volkswagen",
+      "price": 19044.05,
+      "model": "Jetta",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9796,
+      "year": 2001,
+      "make": "Chevrolet",
+      "price": 22303.66,
+      "model": "Silverado 3500 Extended Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9797,
+      "year": 2008,
+      "make": "Hyundai",
+      "price": 18959.52,
+      "model": "Entourage",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9798,
+      "year": 1993,
+      "make": "Dodge",
+      "price": 22884.920000000002,
+      "model": "Ramcharger",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9799,
+      "year": 1998,
+      "make": "Chevrolet",
+      "price": 23089.010000000002,
+      "model": "Astro Passenger",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9800,
+      "year": 2003,
+      "make": "Chrysler",
+      "price": 19471.4,
+      "model": "PT Cruiser",
+      "type": ["Wagon"]
+    },
+    {
+      "id": 9801,
+      "year": 2008,
+      "make": "Land Rover",
+      "price": 107104.34,
+      "model": "Range Rover",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9802,
+      "year": 1993,
+      "make": "Dodge",
+      "price": 20971.87,
+      "model": "Ram Wagon B250",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9803,
+      "year": 2004,
+      "make": "Porsche",
+      "price": 83258.25,
+      "model": "Cayenne",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9804,
+      "year": 2007,
+      "make": "HUMMER",
+      "price": 32516.9,
+      "model": "H2",
+      "type": ["SUV","Pickup"]
+    },
+    {
+      "id": 9805,
+      "year": 2003,
+      "make": "Oldsmobile",
+      "price": 16133.08,
+      "model": "Aurora",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9806,
+      "year": 2019,
+      "make": "Mercedes-Benz",
+      "price": 71770.95999999999,
+      "model": "Mercedes-AMG GT",
+      "type": ["Coupe","Sedan","Convertible"]
+    },
+    {
+      "id": 9807,
+      "year": 2018,
+      "make": "BMW",
+      "price": 42148.67,
+      "model": "M5",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9808,
+      "year": 2013,
+      "make": "Honda",
+      "price": 18974.18,
+      "model": "Crosstour",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9809,
+      "year": 1999,
+      "make": "Honda",
+      "price": 18479.36,
+      "model": "CR-V",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9810,
+      "year": 1995,
+      "make": "Ford",
+      "price": 23399.43,
+      "model": "Taurus",
+      "type": ["Sedan","Wagon"]
+    },
+    {
+      "id": 9811,
+      "year": 2009,
+      "make": "Mercury",
+      "price": 12459.53,
+      "model": "Grand Marquis",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9812,
+      "year": 2008,
+      "make": "Dodge",
+      "price": 22996.09,
+      "model": "Ram 2500 Mega Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9813,
+      "year": 1992,
+      "make": "Hyundai",
+      "price": 17072.91,
+      "model": "Scoupe",
+      "type": ["Coupe"]
+    },
+    {
+      "id": 9814,
+      "year": 2008,
+      "make": "Suzuki",
+      "price": 16440.65,
+      "model": "Reno",
+      "type": ["Hatchback"]
+    },
+    {
+      "id": 9815,
+      "year": 2004,
+      "make": "Scion",
+      "price": 14567.85,
+      "model": "xB",
+      "type": ["Hatchback"]
+    },
+    {
+      "id": 9816,
+      "year": 2000,
+      "make": "MAZDA",
+      "price": 18353.11,
+      "model": "Millenia",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9817,
+      "year": 1997,
+      "make": "Chevrolet",
+      "price": 22263.66,
+      "model": "Camaro",
+      "type": ["Coupe","Convertible"]
+    },
+    {
+      "id": 9818,
+      "year": 2008,
+      "make": "Dodge",
+      "price": 20439.14,
+      "model": "Charger",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9819,
+      "year": 2007,
+      "make": "Kia",
+      "price": 15892.11,
+      "model": "Sedona",
+      "type": ["Van/Minivan"]
+    },
+    {
+      "id": 9820,
+      "year": 1993,
+      "make": "Mercedes-Benz",
+      "price": 75078.72,
+      "model": "300 SE",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9821,
+      "year": 2000,
+      "make": "Chrysler",
+      "price": 18318.25,
+      "model": "LHS",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9822,
+      "year": 2010,
+      "make": "Ford",
+      "price": 23545.1,
+      "model": "Ranger Super Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9823,
+      "year": 2018,
+      "make": "GMC",
+      "price": 19394.81,
+      "model": "Sierra 3500 HD Regular Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9824,
+      "year": 1994,
+      "make": "Audi",
+      "price": 49740.38,
+      "model": "Cabriolet",
+      "type": ["Convertible"]
+    },
+    {
+      "id": 9825,
+      "year": 1999,
+      "make": "Cadillac",
+      "price": 42231.45,
+      "model": "Escalade",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9826,
+      "year": 2018,
+      "make": "Jaguar",
+      "price": 49750.64,
+      "model": "XJ",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9827,
+      "year": 2018,
+      "make": "Lexus",
+      "price": 49206.869999999995,
+      "model": "IS",
+      "type": ["Sedan"]
+    },
+    {
+      "id": 9828,
+      "year": 1996,
+      "make": "GMC",
+      "price": 22150.46,
+      "model": "2500 Regular Cab",
+      "type": ["Pickup"]
+    },
+    {
+      "id": 9829,
+      "year": 2018,
+      "make": "Volkswagen",
+      "price": 18111.69,
+      "model": "Golf Alltrack",
+      "type": ["Wagon"]
+    },
+    {
+      "id": 9830,
+      "year": 2004,
+      "make": "Toyota",
+      "price": 22120.02,
+      "model": "Land Cruiser",
+      "type": ["SUV"]
+    },
+    {
+      "id": 9831,
+      "year": 1996,
+      "make": "GMC",
+      "price": 18468.75,
+      "model": "Vandura G3500",
+      "type": ["Van/Minivan"]
+    }
+  ]
+}
