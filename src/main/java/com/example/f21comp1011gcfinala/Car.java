@@ -9,11 +9,11 @@ public class Car {
 
     private String id;
 
-    private String year;
+    private int year;
 
     private String make;
 
-    private String price;
+    private double price;
 
     private String model;
 
@@ -26,15 +26,6 @@ public class Car {
     public void setId(String id) {
         this.id = id;
     }
-
-    public String getYear() {
-        return year;
-    }
-
-    public void setYear(String year) {
-        this.year = year;
-    }
-
     public String getMake() {
         return make;
     }
@@ -43,11 +34,19 @@ public class Car {
         this.make = make;
     }
 
-    public String getPrice() {
+    public int getYear() {
+        return year;
+    }
+
+    public void setYear(int year) {
+        this.year = year;
+    }
+
+    public double getPrice() {
         return price;
     }
 
-    public void setPrice(String price) {
+    public void setPrice(double price) {
         this.price = price;
     }
 
@@ -70,7 +69,7 @@ public class Car {
 
     public String toString()
     {
-        return String.format("%s-%s",year, make, price, model, type);
+        return String.format("&d-%s-$%f-type(s)-%s",year, make, price, model, type);
     }
 
 }
