@@ -66,9 +66,8 @@ public class Car {
         this.type = type;
     }
 
-    public String toString()
-    {
-        return String.format("&d-%s-$%f-type(s)-%s",year, make, price, model, type);
+    public String toString() {
+        return String.format("%d - %s %s - $%.2f -type(s): %s", year,make, model, price, type);
     }
 
 }
